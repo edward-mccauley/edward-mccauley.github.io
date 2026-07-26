@@ -20,8 +20,8 @@ My proposed artifact is the CS-340 Grazioso Salvare Dashboard, which uses Python
 
 This ePortfolio will eventually include:
 
+* [Code Review](code-review.md)
 * Professional self-assessment
-* Code review video
 * Original artifact or artifacts
 * Enhanced artifact or artifacts
 * Enhancement narratives
