@@ -2,45 +2,42 @@
 
 ## CS 499 Computer Science Capstone ePortfolio
 
-This site serves as my CS 499 Computer Science Capstone ePortfolio for Southern New Hampshire University.
+Welcome to my CS 499 Computer Science Capstone ePortfolio for Southern New Hampshire University.
 
-The purpose of this ePortfolio is to showcase my growth throughout the Computer Science program through enhanced artifacts, written narratives, a code review, and a professional self-assessment.
+This ePortfolio showcases my growth throughout the Computer Science program through a code review, enhanced artifacts, written narratives, and a professional self-assessment.
 
 ## ePortfolio Homepage
 
-This ePortfolio is published through GitHub Pages here:
+This site is published through GitHub Pages:
 
 [View My CS 499 ePortfolio](https://edward-mccauley.github.io)
 
 ## Capstone Focus
 
-For my capstone project, I am enhancing a previous Computer Science artifact in three key areas:
+For my capstone project, I am enhancing my CS-340 Grazioso Salvare Dashboard artifact in three key areas:
 
 * Software design and engineering
 * Algorithms and data structures
 * Databases
 
-My selected artifact is the CS-340 Grazioso Salvare Dashboard, which uses Python and MongoDB to support data-driven decision-making through a dashboard application.
+The original artifact was created in CS-340: Advanced Programming Concepts. It uses Python and MongoDB to display animal shelter data and support rescue-animal selection through a dashboard application.
 
 ## Portfolio Contents
 
-This ePortfolio includes or will include the following components:
-
 * [Code Review](code-review.md)
 * [Enhancement One: Software Design and Engineering](enhancement-one.md)
-* Professional self-assessment
-* Original artifact files
-* Enhanced artifact files
-* Enhancement narratives
-* Algorithms and data structures enhancement
-* Database enhancement
+* Enhancement Two: Algorithms and Data Structures
+* Enhancement Three: Databases
+* Professional Self-Assessment
 
-## Code Review
+## Published Enhancement
 
-The code review examines my original CS-340 Grazioso Salvare Dashboard artifact. In the review, I discuss the existing code, identify areas for improvement, and explain my planned enhancements for software design and engineering, algorithms and data structures, and databases.
+### Enhancement One: Software Design and Engineering
 
-[View the Code Review page](code-review.md)
+Enhancement One improves the structure of the original CS-340 dashboard by refactoring the project into a more organized, layered design. The enhanced version separates the application entry point, database access layer, configuration settings, rescue filtering logic, and controller responsibilities into separate modules.
+
+[View Enhancement One](enhancement-one.md)
 
 ## Career Alignment
 
-This portfolio supports my career interests in software engineering, cloud infrastructure, networking, automation, and security. My goal is to demonstrate that I can build and improve software that is practical, maintainable, and secure.
+This portfolio supports my career interests in software engineering, cloud infrastructure, networking, automation, and security. My goal is to demonstrate that I can build and improve software that is practical, maintainable, secure, and easier for others to understand.
