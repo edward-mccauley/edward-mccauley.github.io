@@ -2,36 +2,44 @@
 
 ## CS 499 Computer Science Capstone ePortfolio
 
-This site will serve as my CS 499 Computer Science Capstone ePortfolio for Southern New Hampshire University.
+This site serves as my CS 499 Computer Science Capstone ePortfolio for Southern New Hampshire University.
 
 The purpose of this ePortfolio is to showcase my growth throughout the Computer Science program through enhanced artifacts, written narratives, a code review, and a professional self-assessment.
 
+## ePortfolio Homepage
+
+This ePortfolio is published through GitHub Pages here:
+
+[View My CS 499 ePortfolio](https://edward-mccauley.github.io)
+
 ## Capstone Focus
 
-My current plan is to use a previous Computer Science artifact and enhance it in three key areas:
+For my capstone project, I am enhancing a previous Computer Science artifact in three key areas:
 
 * Software design and engineering
 * Algorithms and data structures
 * Databases
 
-My proposed artifact is the CS-340 Grazioso Salvare Dashboard, which uses Python and MongoDB to support data-driven decision making through a dashboard application. This plan may be refined based on instructor feedback during Module One.
-
-## Planned Portfolio Contents
-
-This ePortfolio will eventually include:
+My selected artifact is the CS-340 Grazioso Salvare Dashboard, which uses Python and MongoDB to support data-driven decision-making through a dashboard application.
 
 ## Portfolio Contents
 
-This ePortfolio will include:
+This ePortfolio includes or will include the following components:
 
 * [Code Review](code-review.md)
+* [Enhancement One: Software Design and Engineering](enhancement-one.md)
 * Professional self-assessment
 * Original artifact files
 * Enhanced artifact files
 * Enhancement narratives
-* Software design and engineering enhancement
 * Algorithms and data structures enhancement
 * Database enhancement
+
+## Code Review
+
+The code review examines my original CS-340 Grazioso Salvare Dashboard artifact. In the review, I discuss the existing code, identify areas for improvement, and explain my planned enhancements for software design and engineering, algorithms and data structures, and databases.
+
+[View the Code Review page](code-review.md)
 
 ## Career Alignment
 
