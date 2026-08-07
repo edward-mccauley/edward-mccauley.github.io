@@ -26,7 +26,7 @@ The original artifact was created in CS-340: Advanced Programming Concepts. It u
 
 * [Code Review](code-review.md)
 * [Enhancement One: Software Design and Engineering](enhancement-one.md)
-* Enhancement Two: Algorithms and Data Structures
+*  * [Enhancement Two: Algorithms and Data Structures](enhancement-two.md)
 * Enhancement Three: Databases
 * Professional Self-Assessment
 
@@ -37,6 +37,12 @@ The original artifact was created in CS-340: Advanced Programming Concepts. It u
 Enhancement One improves the structure of the original CS-340 dashboard by refactoring the project into a more organized, layered design. The enhanced version separates the application entry point, database access layer, configuration settings, rescue filtering logic, and controller responsibilities into separate modules.
 
 [View Enhancement One](enhancement-one.md)
+
+### Enhancement Two: Algorithms and Data Structures
+
+Enhancement Two improves the rescue-animal selection process by adding matching, scoring, and ranking logic. Instead of only filtering records, the enhanced version evaluates animal records against rescue criteria, assigns scores, tracks matched traits, and ranks the strongest candidates first.
+
+[View Enhancement Two](enhancement-two.md)
 
 ## Career Alignment
 
