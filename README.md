@@ -26,7 +26,7 @@ The original artifact was created in CS-340: Advanced Programming Concepts. It u
 
 * [Code Review](code-review.md)
 * [Enhancement One: Software Design and Engineering](enhancement-one.md)
-*  * [Enhancement Two: Algorithms and Data Structures](enhancement-two.md)
+* [Enhancement Two: Algorithms and Data Structures](enhancement-two.md)
 * Enhancement Three: Databases
 * Professional Self-Assessment
 
