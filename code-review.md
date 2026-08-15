@@ -5,13 +5,15 @@
 
 ## Code Review Overview
 
-This code review examines my CS-340 Grazioso Salvare Dashboard artifact. The original project used Python and MongoDB to display animal shelter data and support rescue-animal selection.
+This code review examines my Grazioso Salvare Dashboard artifact. The original project used Python and MongoDB to display animal shelter data and support rescue-animal selection.
 
-In the code review, I discuss the existing artifact, identify areas for improvement, and explain my planned enhancements in three categories:
+In the code review, I discuss the existing artifact, identify areas for improvement, and explain the enhancement plan used for my capstone project. The review focuses on three areas:
 
 - Software design and engineering
 - Algorithms and data structures
 - Databases
+
+The code review helped guide the enhancement process by identifying areas where the original artifact could be improved in structure, decision-making logic, database access, maintainability, and security.
 
 ## Code Review Video
 
@@ -26,10 +28,16 @@ The code review focuses on the following original artifact files:
 
 ## Enhancement Summary
 
-My planned enhancements focus on transforming the original academic dashboard into a more professional artifact.
+The capstone enhancements transform the original academic dashboard into a more professional software artifact.
 
-The software design enhancement improves modularity and separation of concerns. The algorithms and data structures enhancement improves the rescue-animal selection process through matching, scoring, and ranking. The database enhancement will improve query validation, result handling, and safer database access.
+The software design and engineering enhancement improves modularity, separation of concerns, configuration handling, and maintainability. The algorithms and data structures enhancement improves the rescue-animal selection process through matching, scoring, and ranking. The database enhancement improves query validation, result handling, safer database access, environment-based configuration, and controlled error handling.
+
+## Artifact Repository
+
+The original and enhanced artifact files are available in this GitHub repository:
+
+[View Artifact Code Repository](https://github.com/edward-mccauley/CS499-Grazioso-Salvare-ePortfolio)
 
 ## Return to Home
 
-[Return to ePortfolio Home](README.md)
+[Return to ePortfolio Home](https://edward-mccauley.github.io)
