@@ -54,6 +54,10 @@ The code for this enhancement is available here:
 
 [View Enhancement One Code Repository](https://github.com/edward-mccauley/CS499-Grazioso-Salvare-ePortfolio)
 
+## Downloadable Narrative
+
+[Download Enhancement One Narrative](documents/enhancement-one-narrative.docx)
+
 ## Return to Home
 
 [Return to ePortfolio Home](https://edward-mccauley.github.io)

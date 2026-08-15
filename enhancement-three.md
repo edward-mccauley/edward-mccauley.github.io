@@ -70,6 +70,10 @@ The code for this enhancement is available here:
 
 [View Enhancement Three Code Repository](https://github.com/edward-mccauley/CS499-Grazioso-Salvare-ePortfolio)
 
+## Downloadable Narrative
+
+[Download Enhancement Three Narrative](documents/enhancement-three-narrative.docx)
+
 ## Return to Home
 
 [Return to ePortfolio Home](https://edward-mccauley.github.io)

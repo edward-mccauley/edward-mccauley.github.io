@@ -36,6 +36,13 @@ Together, these enhancements demonstrate my ability to improve existing software
 * [Enhancement Three Narrative: Databases](enhancement-three.md)
 * [Artifact Code Repository](https://github.com/edward-mccauley/CS499-Grazioso-Salvare-ePortfolio)
 
+## Downloadable Documents
+
+* [Professional Self-Assessment](documents/professional-self-assessment.docx)
+* [Enhancement One Narrative: Software Design and Engineering](documents/enhancement-one-narrative.docx)
+* [Enhancement Two Narrative: Algorithms and Data Structures](documents/enhancement-two-narrative.docx)
+* [Enhancement Three Narrative: Databases](documents/enhancement-three-narrative.docx)
+
 ## Capstone Focus
 
 For my capstone project, I enhanced my Grazioso Salvare Dashboard artifact in three key areas:
