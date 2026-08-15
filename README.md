@@ -27,7 +27,7 @@ The original artifact was created in CS-340: Advanced Programming Concepts. It u
 * [Code Review](code-review.md)
 * [Enhancement One: Software Design and Engineering](enhancement-one.md)
 * [Enhancement Two: Algorithms and Data Structures](enhancement-two.md)
-* Enhancement Three: Databases
+* [Enhancement Three: Databases](enhancement-three.md)
 * Professional Self-Assessment
 
 ## Published Enhancement
@@ -43,6 +43,12 @@ Enhancement One improves the structure of the original CS-340 dashboard by refac
 Enhancement Two improves the rescue-animal selection process by adding matching, scoring, and ranking logic. Instead of only filtering records, the enhanced version evaluates animal records against rescue criteria, assigns scores, tracks matched traits, and ranks the strongest candidates first.
 
 [View Enhancement Two](enhancement-two.md)
+
+### Enhancement Three: Databases
+
+Enhancement Three improves the MongoDB database access layer by adding safer query construction, allowed field validation, projection support, result limits, safer update handling, and environment-based configuration.
+
+[View Enhancement Three](enhancement-three.md)
 
 ## Career Alignment
 
